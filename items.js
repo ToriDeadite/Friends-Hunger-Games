@@ -155,7 +155,7 @@ var killCauseAndEffect =
 "paintball",
 "brings one less paintball, so",
 "mason jar",
-"puts",
+"puts in the jar",
 "cocaine bear",
 "'s cocaine bear mauls",
 "fidget spinner",

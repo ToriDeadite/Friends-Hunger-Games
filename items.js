@@ -15,11 +15,11 @@ var melee =
 "knife",
 "golf club",
 "baseball bat",
-"stick",
+"massive cock",
 "potato",
 "shoe",
-"dead platypus",
-"65",
+"lightsaber",
+"weighted dinosaur",
 "diamond sword",
 "dual swords",
 "TI-Nspire",
@@ -34,12 +34,12 @@ var melee =
 "bottle of vodka"];
 
 var itemsToFind =
-["fruit tree",
+["Mink clan merch",
 "poisonous fruit tree",
-"clean water",
-"clean coal",
-"clean Cole",
-"OCC vending machine",
+"sprite cranberry",
+"Erics dab pen",
+"Morbius DVD",
+"groan tube",
 "wild Ohio Fried Chicken",
 "glasses that cure color-blindness",
 "bleach gummy bottle",
@@ -52,7 +52,7 @@ var itemsToFind =
 "bucket of KFC",
 "tin of Donald Trump's bronzer",
 "Emoji Movie on laserdisc",
-"anthology of life-changing poems",
+"Julians toes",
 "quenched and tempered steel",
 "VIP ticket to Tana Mojo concert",
 "unicorn",
@@ -65,16 +65,16 @@ var itemsToFind =
 "50% off coupon to an SAT prep class",
 "indescribable object",
 "chocolate-covered cotton",
-"stick of Old Spice deodorant",
+"Kirby"];
 "freeze ray",
 "findings"];
 
 var itemsThatGivePoints = [
 "fruit tree",
-"clean water",
+"sprite cranberry",
 "glasses that cure color-blindness",
-"anthology of life-changing poems",
-"stick of Old Spice deodorant",
+"Julians toes",
+" of Old Spice deodorant",
 "50% off coupon to an SAT prep class"];
 
 var causeAndEffect =
